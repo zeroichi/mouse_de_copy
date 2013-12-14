@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("mouse_de_copy")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Hewlett-Packard Company")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("mouse_de_copy")]
-[assembly: AssemblyCopyright("Copyright © Hewlett-Packard Company 2013")]
+[assembly: AssemblyCopyright("Copyright ©  2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 次の GUID は、このプロジェクトが COM に公開される場合の、typelib の ID です
-[assembly: Guid("e2eafe15-0a35-41d3-bd64-a2ec351a670e")]
+[assembly: Guid("4839d496-34f0-4523-b67f-6efeb7dc6b98")]
 
 // アセンブリのバージョン情報は、以下の 4 つの値で構成されています:
 //
